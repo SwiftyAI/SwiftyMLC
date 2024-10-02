@@ -1,0 +1,22 @@
+{
+  "model_list": [
+    {
+      "model_id": "Llama-3.2-1B-Instruct-q4f16_1-MLC",
+      "model_lib": "llama_q4f16_1_e6732729498ee76cc4e7b2c7e2eb7630",
+      "model_url": "https://huggingface.co/mlc-ai/Llama-3.2-1B-Instruct-q4f16_1-MLC",
+      "estimated_vram_bytes": 3000000000,
+      "name": "Llama 3.2 1B Instruct q4f16_1",
+      "bytes": 690000000,
+      "group": "Llama 3.2"
+    },
+    {
+      "model_id": "Llama-3.2-3B-Instruct-q4f16_1-MLC",
+      "model_lib": "llama_q4f16_1_a9affcb20986a62de619d56be4bda87b",
+      "model_url": "https://huggingface.co/mlc-ai/Llama-3.2-3B-Instruct-q4f16_1-MLC",
+      "estimated_vram_bytes": 3000000000,
+      "name": "Llama 3.2 3B Instruct q4f16_1",
+      "bytes": 1430000000,
+      "group": "Llama 3.2"
+    }
+  ]
+}

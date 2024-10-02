@@ -1,0 +1,29 @@
+{
+    "device": "iphone",
+    "model_list": [
+        {
+            "group": "Llama 3.2",
+            "name": "Llama 3.2 1B Instruct q4f16_1",
+            "bytes": 690000000,
+            "model": "HF://mlc-ai/Llama-3.2-1B-Instruct-q4f16_1-MLC",
+            "model_id": "Llama-3.2-1B-Instruct-q4f16_1-MLC",
+            "estimated_vram_bytes": 3000000000,
+            "overrides": {
+                "prefill_chunk_size": 128,
+                "context_window_size": 2048
+            }
+        },
+        {
+            "group": "Llama 3.2",
+            "name": "Llama 3.2 3B Instruct q4f16_1",
+            "bytes": 1430000000,
+            "model": "HF://mlc-ai/Llama-3.2-3B-Instruct-q4f16_1-MLC",
+            "model_id": "Llama-3.2-3B-Instruct-q4f16_1-MLC",
+            "estimated_vram_bytes": 3000000000,
+            "overrides": {
+                "prefill_chunk_size": 128,
+                "context_window_size": 2048
+            }
+        }
+    ]
+}
