@@ -1,6 +1,6 @@
 # SwiftyMLC
 
-[Video Example](Example.mp4)
+https://github.com/user-attachments/assets/3951d6bb-b3bd-4820-b889-09a13ddf601e
 
 SwiftyMLC is an example of how to integrate MLC into a Swift project. See the [mlc Swift SDK documentation](https://llm.mlc.ai/docs/deploy/ios.html#ios-swift-sdk) for more information.
 
