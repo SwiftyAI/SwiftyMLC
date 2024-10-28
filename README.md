@@ -37,7 +37,7 @@ You can retrieve the `bytes` of a model using the [Chrome HF Model Size](https:/
 
 Run the following in the project directory.
 ```
-export MLC_LLM_SOURCE_DIR={path to this repository}/mlc-llm
+export MLC_LLM_SOURCE_DIR={path to this local repository}/mlc-llm
 mlc_llm package
 ./model-details.sh
 ```
